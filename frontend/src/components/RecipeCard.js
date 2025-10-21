@@ -1,6 +1,7 @@
 import React from 'react';
 
 function RecipeCard({ recipe }) {
+  console.log('RecipeCard: Rendering recipe:', recipe);
   return (
     <div className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow">
       <h3 className="text-xl font-semibold mb-2">{recipe.name}</h3>

@@ -11,15 +11,21 @@ function App() {
   const [loading, setLoading] = useState(false);
 
   const handleRecommend = async () => {
+    console.log('Frontend: Starting recommendation request');
+    console.log('Frontend: Ingredients:', ingredients);
+    console.log('Frontend: Filters:', filters);
     setLoading(true);
     try {
       const response = await axios.post('http://localhost:5000/recommend', {
         ingredients,
         ...filters
       });
+      console.log('Frontend: Response received:', response);
+      console.log('Frontend: Recommendations data:', response.data.recommendations);
       setRecommendations(response.data.recommendations);
+      console.log('Frontend: State updated with recommendations:', response.data.recommendations.length, 'recipes');
     } catch (error) {
-      console.error('Error fetching recommendations:', error);
+      console.error('Frontend: Error fetching recommendations:', error);
     }
     setLoading(false);
   };

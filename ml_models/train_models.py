@@ -42,11 +42,18 @@ def get_recipe_vector_word2vec(ingredients, model):
         return np.zeros(model.vector_size)
 
 def recommend_tfidf(user_ingredients, vectorizer, tfidf_matrix, recipes_df, top_n=5):
-    user_text = ' '.join(user_ingredients)
-    user_vector = vectorizer.transform([user_text])
-    similarities = cosine_similarity(user_vector, tfidf_matrix).flatten()
-    top_indices = similarities.argsort()[-top_n:][::-1]
-    return recipes_df.iloc[top_indices]
+    # First, filter recipes that contain at least one user ingredient
+    matching_recipes = recipes_df[recipes_df['ingredients'].apply(lambda ing_list: any(ing.lower() in [u.lower() for u in user_ingredients] for ing in ing_list))]
+    if matching_recipes.empty:
+        # If no exact matches, fall back to similarity
+        user_text = ' '.join(user_ingredients)
+        user_vector = vectorizer.transform([user_text])
+        similarities = cosine_similarity(user_vector, tfidf_matrix).flatten()
+        top_indices = similarities.argsort()[-top_n:][::-1]
+        return recipes_df.iloc[top_indices]
+    else:
+        # Return matching recipes, up to top_n
+        return matching_recipes.head(top_n)
 
 def recommend_word2vec(user_ingredients, model, recipes_df, top_n=5):
     user_vector = get_recipe_vector_word2vec(user_ingredients, model)
