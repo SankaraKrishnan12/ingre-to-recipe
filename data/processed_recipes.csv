@@ -1,1 +1,255 @@
-name,ingredients,instructions,region,diet,ingredient_text
+name,ingredients,Unnamed: 2,instructions,Unnamed: 4,region,diet,ingredient_text
+Balu shahi,"['maida flour', 'yogurt', 'oil', 'sugar']",,45,,East,Veg,maida flour yogurt oil sugar
+Boondi,"['gram flour', 'ghee', 'sugar']",,80,,West,Veg,gram flour ghee sugar
+Gajar ka halwa,"['carrots', 'milk', 'sugar', 'ghee', 'cashews', 'raisins']",,15,,North,Veg,carrots milk sugar ghee cashews raisins
+Ghevar,"['flour', 'ghee', 'kewra', 'milk', 'clarified butter', 'sugar', 'almonds', 'pistachio', 'saffron', 'green cardamom']",,15,,West,Veg,flour ghee kewra milk clarified butter sugar almonds pistachio saffron green cardamom
+Gulab jamun,"['milk powder', 'plain flour', 'baking powder', 'ghee', 'milk', 'sugar', 'water', 'rose water']",,15,,East,Veg,milk powder plain flour baking powder ghee milk sugar water rose water
+Imarti,"['sugar syrup', 'lentil flour']",,10,,East,Veg,sugar syrup lentil flour
+Jalebi,"['maida', 'corn flour', 'baking soda', 'vinegar', 'curd', 'water', 'turmeric', 'saffron', 'cardamom']",,10,,North,Veg,maida corn flour baking soda vinegar curd water turmeric saffron cardamom
+Kaju katli,"['cashews', 'ghee', 'cardamom', 'sugar']",,10,,-1,Veg,cashews ghee cardamom sugar
+Kalakand,"['milk', 'cottage cheese', 'sugar']",,20,,East,Veg,milk cottage cheese sugar
+Kheer,"['milk', 'rice', 'sugar', 'dried fruits']",,10,,-1,Veg,milk rice sugar dried fruits
+Laddu,"['gram flour', 'ghee', 'sugar']",,10,,-1,Veg,gram flour ghee sugar
+Lassi,"['yogurt', 'milk', 'nuts', 'sugar']",,5,,North,Veg,yogurt milk nuts sugar
+Nankhatai,"['refined flour', 'besan', 'ghee', 'powdered sugar', 'yoghurt', 'green cardamom']",,20,,-1,Veg,refined flour besan ghee powdered sugar yoghurt green cardamom
+Petha,"['firm white pumpkin', 'sugar', 'kitchen lime', 'alum powder']",,10,,North,Veg,firm white pumpkin sugar kitchen lime alum powder
+Phirni,"['rice', 'sugar', 'nuts']",,30,,East,Veg,rice sugar nuts
+Rabri,"['condensed milk', 'sugar', 'spices', 'nuts']",,10,,North,Veg,condensed milk sugar spices nuts
+Sheera,"['semolina', 'ghee', 'nuts', 'milk']",,10,,West,Veg,semolina ghee nuts milk
+Singori,"['khoa', 'coconut', 'molu leaf']",,10,,North,Veg,khoa coconut molu leaf
+Sohan halwa,"['corn flour', 'ghee', 'dry fruits']",,10,,North,Veg,corn flour ghee dry fruits
+Sohan papdi,"['gram flour', 'ghee', 'sugar', 'milk', 'cardamom']",,-1,,West,Veg,gram flour ghee sugar milk cardamom
+Chhena jalebi,"['chhena', 'sugar', 'ghee']",,10,,East,Veg,chhena sugar ghee
+Chhena kheeri,"['chhena', 'sugar', 'milk']",,-1,,East,Veg,chhena sugar milk
+Chhena poda,"['sugar', 'chenna cheese']",,10,,East,Veg,sugar chenna cheese
+Cham cham,"['flour', 'cream', 'sugar', 'saffron', 'lemon juice', 'coconut flakes']",,40,,East,Veg,flour cream sugar saffron lemon juice coconut flakes
+Kheer sagar,"['chenna', 'condensed milk', 'sugar', 'saffron', 'cardamom']",,25,,East,Veg,chenna condensed milk sugar saffron cardamom
+Ledikeni,"['chhena', 'sugar', 'ghee']",,45,,East,Veg,chhena sugar ghee
+Lyangcha,"['flour', 'fried milk power', 'sugar syrup']",,20,,North East,Veg,flour fried milk power sugar syrup
+Malapua,"['yoghurt', 'refined flour', 'ghee', 'fennel seeds']",,10,,North,Veg,yoghurt refined flour ghee fennel seeds
+Mihidana,"['besan flour', 'sugar', 'ghee']",,15,,East,Veg,besan flour sugar ghee
+Misti doi,"['milk', 'jaggery']",,480,,East,Veg,milk jaggery
+Pantua,"['chhena', 'sugar', 'ghee', 'flour']",,45,,East,Veg,chhena sugar ghee flour
+Pithe,"['rice flour', 'wheat flour']",,15,,North East,Veg,rice flour wheat flour
+Rasabali,"['chenna', 'sweetened milk']",,15,,East,Veg,chenna sweetened milk
+Ras malai,"['chhena', 'reduced milk', 'pistachio']",,180,,East,Veg,chhena reduced milk pistachio
+Rasgulla,"['chhena', 'sugar', 'cardamom']",,10,,East,Veg,chhena sugar cardamom
+Sandesh,"['milk', 'sugar', 'saffron', 'cardamom']",,30,,East,Veg,milk sugar saffron cardamom
+Adhirasam,"['rice flour', 'jaggery', 'ghee', 'vegetable oil', 'elachi']",,10,,East,Veg,rice flour jaggery ghee vegetable oil elachi
+Ariselu,"['rice flour', 'jaggery', 'ghee']",,15,,South,Veg,rice flour jaggery ghee
+Bandar laddu,"['besan', 'jaggery', 'cardamom powder', 'ghee', 'cashews and raisins', 'jaggery syrup', 'sugar']",,5,,South,Veg,besan jaggery cardamom powder ghee cashews and raisins jaggery syrup sugar
+Chikki,"['peanuts', 'jaggery']",,10,,West,Veg,peanuts jaggery
+Dharwad pedha,"['milk', 'sugar', 'dharwadi buffalo milk']",,20,,South,Veg,milk sugar dharwadi buffalo milk
+Double ka meetha,"['loaf bread', 'milk']",,20,,South,Veg,loaf bread milk
+Gavvalu,"['rice flour', 'sugar', 'salt', 'ghee', 'semolina']",,10,,South,Veg,rice flour sugar salt ghee semolina
+Kakinada khaja,"['wheat flour', 'sugar']",,10,,South,Veg,wheat flour sugar
+Kuzhi paniyaram,"['black lentils', 'rice']",,10,,South,Veg,black lentils rice
+Mysore pak,"['besan flour', 'semolina', 'mung bean', 'jaggery', 'coconut', 'skimmed milk powder', 'sugar', 'ghee']",,5,,South,Veg,besan flour semolina mung bean jaggery coconut skimmed milk powder sugar ghee
+Obbattu holige,"['maida flour', 'turmeric', 'coconut', 'chickpeas', 'jaggery', 'ghee', 'cardamom']",,180,,South,Veg,maida flour turmeric coconut chickpeas jaggery ghee cardamom
+Palathalikalu,"['rice flour', 'milk']",,10,,South,Veg,rice flour milk
+Poornalu,"['chana dal', 'jaggery']",,240,,South,Veg,chana dal jaggery
+Pongal,"['rice', 'jaggery', 'cashews', 'ghee']",,5,,South,Veg,rice jaggery cashews ghee
+Pootharekulu,"['rice flour', 'powdered sugar', 'ghee']",,10,,South,Veg,rice flour powdered sugar ghee
+Qubani ka meetha,"['apricots', 'sugar syrup']",,10,,South,Veg,apricots sugar syrup
+Sheer korma,"['vermicelli pudding', 'milk']",,10,,South,Veg,vermicelli pudding milk
+Unni Appam,"['rice flour', 'banana', 'jaggery', 'coconut']",,10,,South,Veg,rice flour banana jaggery coconut
+Kajjikaya,"['rice flour', 'jaggery', 'coconut']",,40,,South,Veg,rice flour jaggery coconut
+Anarsa,"['rice flour', 'jaggery', 'khus-khus seeds']",,10,,West,Veg,rice flour jaggery khus-khus seeds
+Basundi,"['sugar', 'milk', 'nuts']",,10,,West,Veg,sugar milk nuts
+Dhondas,"['cucumber', 'rava']",,10,,West,Veg,cucumber rava
+Doodhpak,"['milk', 'rice', 'sugar', 'dry fruits']",,10,,West,Veg,milk rice sugar dry fruits
+Mahim halwa,"['semolina', 'sugar']",,10,,West,Veg,semolina sugar
+Modak,"['rice flour', 'coconut', 'jaggery']",,10,,West,Veg,rice flour coconut jaggery
+Shankarpali,"['sugar', 'ghee', 'maida flour', 'semolina']",,10,,West,Veg,sugar ghee maida flour semolina
+Shrikhand,"['curd', 'sugar', 'saffron', 'cardamom']",,10,,West,Veg,curd sugar saffron cardamom
+Sutar feni,"['maida', 'sugar', 'ghee']",,15,,West,Veg,maida sugar ghee
+Maach Jhol,"['fish', 'potol', 'tomato', 'chillies', 'ginger', 'garlic']",,10,,North East,Non-Veg,fish potol tomato chillies ginger garlic
+Pork Bharta,"['boiled pork', 'onions', 'chillies', 'ginger and garlic']",,-1,,North East,Non-Veg,boiled pork onions chillies ginger and garlic
+Chak Hao Kheer,"['rice', 'milk', 'sugar', 'cardamom']",,240,,North East,Veg,rice milk sugar cardamom
+Galho,"['rice', 'axone', 'salt', 'water', 'chillies', 'pork']",,5,,North East,Non-Veg,rice axone salt water chillies pork
+Aloo gobi,"['cauliflower', 'potato', 'garam masala', 'turmeric', 'curry leaves']",,10,,North,Veg,cauliflower potato garam masala turmeric curry leaves
+Aloo tikki,"['rice flour', 'potato', 'bread crumbs', 'garam masala', 'salt']",,5,,North,Veg,rice flour potato bread crumbs garam masala salt
+Aloo matar,"['potato', 'peas', 'chillies', 'ginger', 'garam masala', 'garlic']",,5,,North,Veg,potato peas chillies ginger garam masala garlic
+Aloo methi,"['potato', 'fenugreek leaves', 'chillies', 'salt', 'oil']",,10,,North,Veg,potato fenugreek leaves chillies salt oil
+Aloo shimla mirch,"['potato', 'shimla mirch', 'garam masala', 'amchur powder', 'salt']",,10,,North,Veg,potato shimla mirch garam masala amchur powder salt
+Bhatura,"['chole', 'rava', 'yogurt', 'plain flour', 'baking soda']",,20,,North,Veg,chole rava yogurt plain flour baking soda
+Bhindi masala,"['ladies finger', 'garam masala', 'kasuri methi', 'tomatoes', 'chili powder']",,20,,North,Veg,ladies finger garam masala kasuri methi tomatoes chili powder
+Biryani,"['chicken thighs', 'basmati rice', 'star anise', 'sweet', 'green chillies']",,30,,South,Non-Veg,chicken thighs basmati rice star anise sweet green chillies
+Butter chicken,"['chicken', 'greek yogurt', 'cream', 'garam masala powder', 'cashew nuts', 'butter']",,10,,North,Non-Veg,chicken greek yogurt cream garam masala powder cashew nuts butter
+Chana masala,"['chickpeas', 'tomato paste', 'garam masala', 'ginger', 'red onion', 'avocado oil']",,20,,North,Veg,chickpeas tomato paste garam masala ginger red onion avocado oil
+Chapati,"['whole wheat flour', 'olive oil', 'hot water', 'all purpose flour']",,10,,West,Veg,whole wheat flour olive oil hot water all purpose flour
+Chicken razala,"['chicken', 'dahi', 'sesame seeds', 'garam masala powder', 'cashew nuts', 'saffron']",,10,,East,Non-Veg,chicken dahi sesame seeds garam masala powder cashew nuts saffron
+Chicken Tikka masala,"['naan bread', 'tomato sauce', 'skinless chicken breasts', 'heavy cream', 'garam masala']",,10,,North,Non-Veg,naan bread tomato sauce skinless chicken breasts heavy cream garam masala
+Chicken Tikka,"['chicken', 'whole wheat bread', 'rice flour', 'garam masala powder', 'whole egg']",,120,,North,Non-Veg,chicken whole wheat bread rice flour garam masala powder whole egg
+Chole bhature,"['chole', 'bhatura', 'garam masala', 'bay leaf', 'cinnamon stick']",,20,,North,Veg,chole bhatura garam masala bay leaf cinnamon stick
+Daal baati churma,"['moong dal', 'masoor dal', 'chana dal', 'wheat flour', 'almond']",,10,,West,Veg,moong dal masoor dal chana dal wheat flour almond
+Daal puri,"['moong dal', 'garam masala powder', 'garlic', 'green chilli', 'all purpose flour']",,30,,East,Veg,moong dal garam masala powder garlic green chilli all purpose flour
+Dal makhani ,"['red kidney beans', 'urad dal', 'cream', 'garam masala', 'chili powder']",,10,,North,Veg,red kidney beans urad dal cream garam masala chili powder
+Dal tadka,"['pigeon peas', 'garam masala', 'ginger', 'red onion', 'kasuri methi']",,10,,North,Veg,pigeon peas garam masala ginger red onion kasuri methi
+Dum aloo,"['baby potatoes', 'garam masala', 'cashew nuts', 'kasuri methi', 'tomatoes']",,20,,North,Veg,baby potatoes garam masala cashew nuts kasuri methi tomatoes
+Poha,"['beaten rice flakes', 'potato', 'curry leaves', 'green chilies', 'lemon juice']",,20,,West,Veg,beaten rice flakes potato curry leaves green chilies lemon juice
+Fara,"['chana dal', 'whole wheat flour', 'arhar dal', 'white urad dal', 'garam masala powder']",,10,,Central,Veg,chana dal whole wheat flour arhar dal white urad dal garam masala powder
+Kachori,"['moong dal', 'rava', 'garam masala', 'dough', 'fennel seeds']",,30,,North,Veg,moong dal rava garam masala dough fennel seeds
+Kadai paneer,"['cottage cheese', 'bell peppers', 'gravy', 'garam masala', 'cashew nuts']",,20,,North,Veg,cottage cheese bell peppers gravy garam masala cashew nuts
+Kadhi pakoda,"['besan', 'garam masala powder', 'gram flour', 'ginger', 'curry leaves']",,10,,North,Veg,besan garam masala powder gram flour ginger curry leaves
+Karela bharta,"['bitter gourd', 'fennel', 'garam masala powder', 'chili powder', 'amchur powder']",,20,,North,Veg,bitter gourd fennel garam masala powder chili powder amchur powder
+Khichdi,"['moong dal', 'green peas', 'ginger', 'tomato', 'green chili']",,40,,-1,Veg,moong dal green peas ginger tomato green chili
+Kofta,"['paneer', 'potato', 'cream', 'corn flour', 'garam masala']",,20,,North,Veg,paneer potato cream corn flour garam masala
+Kulfi falooda,"['rose syrup', 'falooda sev', 'mixed nuts', 'saffron', 'sugar']",,45,,-1,Veg,rose syrup falooda sev mixed nuts saffron sugar
+Lauki ke kofte,"['bottle gourd', 'garam masala powder', 'gram flour', 'ginger', 'chillies']",,20,,North,Veg,bottle gourd garam masala powder gram flour ginger chillies
+Lauki ki subji,"['bottle gourd', 'coconut oil', 'garam masala', 'ginger', 'green chillies']",,10,,-1,Veg,bottle gourd coconut oil garam masala ginger green chillies
+Litti chokha,"['wheat flour', 'roasted gram flour', 'tomato', 'nigella seeds', 'chilli']",,45,,North,Veg,wheat flour roasted gram flour tomato nigella seeds chilli
+Makki di roti sarson da saag,"['palak', 'makki atta', 'mustard green', 'garam masala', 'ginger']",,25,,North,Veg,palak makki atta mustard green garam masala ginger
+Misi roti,"['whole wheat flour', 'chickpea flour', 'green chilies']",,30,,North,Veg,whole wheat flour chickpea flour green chilies
+Mushroom do pyaza,"['mushroom', 'malai', 'garam masala', 'ginger', 'capsicum']",,10,,North,Veg,mushroom malai garam masala ginger capsicum
+Mushroom matar,"['canned coconut milk', 'frozen green peas', 'wild mushrooms', 'garam masala', 'tomatoes']",,10,,North,Veg,canned coconut milk frozen green peas wild mushrooms garam masala tomatoes
+Naan,"['whole wheat flour', 'honey', 'butter', 'garlic']",,60,,North,Veg,whole wheat flour honey butter garlic
+Navrattan korma,"['green beans', 'potatoes', 'khus khus', 'low fat', 'garam masala powder']",,25,,North,Veg,green beans potatoes khus khus low fat garam masala powder
+Palak paneer,"['cottage cheese', 'palak', 'cream', 'garam masala', 'butter']",,20,,North,Veg,cottage cheese palak cream garam masala butter
+Paneer butter masala,"['paneer', 'whipping cream', 'garam masala', 'cashew nuts', 'butter']",,20,,North,Veg,paneer whipping cream garam masala cashew nuts butter
+Paneer tikka masala,"['paneer', 'greek yogurt', 'tandoori masala', 'cream', 'bell pepper']",,20,,North,Veg,paneer greek yogurt tandoori masala cream bell pepper
+Pani puri,"['kala chana', 'mashed potato', 'boondi', 'sev', 'lemon']",,15,,-1,Veg,kala chana mashed potato boondi sev lemon
+Papad,"['urad dal', 'sev', 'lemon juice', 'chopped tomatoes']",,5,,-1,Veg,urad dal sev lemon juice chopped tomatoes
+Paratha,"['wheat flour', 'butter', 'potato', 'coriander']",,15,,North,Veg,wheat flour butter potato coriander
+Pattor,"['arbi ke patte', 'sesame seeds', 'gur', 'bengal gram flour', 'imli']",,10,,West,Veg,arbi ke patte sesame seeds gur bengal gram flour imli
+Pindi chana,"['fennel', 'tea bags', 'tomato', 'kasuri methi', 'cinnamon']",,500,,North,Veg,fennel tea bags tomato kasuri methi cinnamon
+Rajma chaval,"['red kidney beans', 'garam masala powder', 'ginger', 'tomato', 'mustard oil']",,15,,North,Veg,red kidney beans garam masala powder ginger tomato mustard oil
+Rongi,"['garam masala powder', 'tomato', 'kasuri methi', 'cinnamon', 'mustard oil']",,10,,North,Veg,garam masala powder tomato kasuri methi cinnamon mustard oil
+Samosa,"['potatoes', 'green peas', 'garam masala', 'ginger', 'dough']",,30,,-1,Veg,potatoes green peas garam masala ginger dough
+Sattu ki roti,"['sattu', 'atta', 'dough', 'filling', 'mustard oil']",,10,,North,Veg,sattu atta dough filling mustard oil
+Shahi paneer,"['cottage cheese', 'malai', 'garam masala', 'ginger', 'tomato']",,20,,North,Veg,cottage cheese malai garam masala ginger tomato
+Shahi tukra,"['rose water', 'milk', 'white bread slices', 'saffron', 'almonds']",,10,,South,Veg,rose water milk white bread slices saffron almonds
+Vegetable jalfrezi,"['baby corn', 'french beans', 'garam masala', 'ginger', 'carrot']",,10,,North,Veg,baby corn french beans garam masala ginger carrot
+Tandoori Chicken,"['greek yogurt', 'garam masala', 'kasuri methi', 'marinade', 'mustard oil']",,240,,North,Non-Veg,greek yogurt garam masala kasuri methi marinade mustard oil
+Tandoori Fish Tikka,"['chickpea flour', 'biryani masala powder', 'yogurt', 'fish fillets', 'green bell pepper']",,240,,North,Non-Veg,chickpea flour biryani masala powder yogurt fish fillets green bell pepper
+Attu,"['whole wheat flour', 'arhar dal', 'ginger', 'kala jeera', 'green chilli']",,150,,South,Veg,whole wheat flour arhar dal ginger kala jeera green chilli
+Avial,"['raw banana', 'elephant foot yam', 'long beans', 'tindora', 'urad dal']",,30,,South,Veg,raw banana elephant foot yam long beans tindora urad dal
+Bisi bele bath,"['split pigeon peas', 'chana dal', 'urad dal', 'green peas', 'french beans']",,30,,South,Veg,split pigeon peas chana dal urad dal green peas french beans
+Currivepillai sadam ,"['chana dal', 'urad dal', 'fresh coconut', 'sesame seeds', 'curry leaves']",,10,,South,Veg,chana dal urad dal fresh coconut sesame seeds curry leaves
+Dosa,"['chana dal', 'urad dal', 'whole urad dal', 'blend rice', 'rock salt']",,360,,South,Veg,chana dal urad dal whole urad dal blend rice rock salt
+Idiappam,"['rice flour', 'hot water', 'grated coconut']",,120,,South,Veg,rice flour hot water grated coconut
+Idli,"['split urad dal', 'urad dal', 'idli rice', 'thick poha', 'rock salt']",,360,,South,Veg,split urad dal urad dal idli rice thick poha rock salt
+Kanji,"['carrot', 'yellow mustard', 'red chilli', 'black salt']",,10,,South,Veg,carrot yellow mustard red chilli black salt
+Kaara kozhambu,"['sesame oil', 'drumstick', 'tamarind paste', 'sambar powder', 'tomato']",,-1,,South,Veg,sesame oil drumstick tamarind paste sambar powder tomato
+Keerai kootu,"['moong dal', 'chana dal', 'spinach', 'urad dal', 'coconut oil']",,20,,South,Veg,moong dal chana dal spinach urad dal coconut oil
+Keerai masiyal,"['urad dal', 'curry leaves', 'sugar', 'mustard seeds', 'spinach']",,-1,,South,Veg,urad dal curry leaves sugar mustard seeds spinach
+Keerai sadam,"['greens', 'tomato', 'mustard seeds', 'fenugreek seeds']",,10,,South,Veg,greens tomato mustard seeds fenugreek seeds
+Keerai poriyal,"['amaranth leaves', 'split urad dal', 'mustard seeds', 'grated coconut', 'red chili']",,20,,South,Veg,amaranth leaves split urad dal mustard seeds grated coconut red chili
+Beef Fry,"['beef', 'coconut', 'garam masala', 'curry leaves', 'green chilies', 'chili powder']",,10,,South,Non-Veg,beef coconut garam masala curry leaves green chilies chili powder
+Kootu,"['chana dal', 'urad dal', 'potato', 'beans', 'peas']",,10,,South,Veg,chana dal urad dal potato beans peas
+Kos kootu,"['moong dal', 'chana dal', 'cabbage', 'tamarind', 'curry leaves']",,10,,South,Veg,moong dal chana dal cabbage tamarind curry leaves
+Koshambri,"['moong dal', 'cucumber', 'curry leaves', 'green chili', 'lemon juice']",,10,,South,Veg,moong dal cucumber curry leaves green chili lemon juice
+Kothamali sadam,"['chana dal', 'urad dal', 'gooseberry', 'raw rice', 'curry leaves']",,10,,South,Veg,chana dal urad dal gooseberry raw rice curry leaves
+Kuzhakkattai,"['sesame oil', 'raw rice', 'jaggery', 'grated coconut']",,10,,South,Veg,sesame oil raw rice jaggery grated coconut
+Kuzhambu,"['pearl onions', 'urad dal', 'drumsticks', 'tomato', 'curry leaves']",,5,,South,Veg,pearl onions urad dal drumsticks tomato curry leaves
+Masala Dosa,"['chana dal', 'urad dal', 'potatoes', 'idli rice', 'thick poha']",,360,,South,Veg,chana dal urad dal potatoes idli rice thick poha
+Pachadi,"['coconut oil', 'cucumber', 'curd', 'curry leaves', 'mustard seeds']",,10,,South,Veg,coconut oil cucumber curd curry leaves mustard seeds
+Paniyaram,"['yogurt', 'ginger', 'curry leaves', 'baking soda', 'green chilli']",,10,,South,Veg,yogurt ginger curry leaves baking soda green chilli
+Papadum,"['lentils', 'black pepper', 'vegetable oil']",,5,,South,Veg,lentils black pepper vegetable oil
+Paravannam,"['raw rice', 'jaggery', 'milk']",,-1,,South,Veg,raw rice jaggery milk
+Payasam,"['rice', 'cashew nuts', 'milk', 'raisins', 'sugar']",,15,,South,Veg,rice cashew nuts milk raisins sugar
+Paruppu sadam,"['arhar dal', 'sambar powder', 'tomato', 'curry leaves', 'fennel seeds']",,10,,South,Veg,arhar dal sambar powder tomato curry leaves fennel seeds
+Pesarattu,"['green moong beans', 'rice flour']",,120,,South,Veg,green moong beans rice flour
+Poriyal,"['chana dal', 'urad dal', 'beans', 'coconut', 'mustard']",,-1,,South,Veg,chana dal urad dal beans coconut mustard
+Puli sadam,"['urad dal', 'lemon', 'tamarind', 'cooked rice', 'curry leaves']",,10,,South,Veg,urad dal lemon tamarind cooked rice curry leaves
+Rasam,"['tomato', 'curry leaves', 'garlic', 'mustard seeds', 'hot water']",,10,,South,Veg,tomato curry leaves garlic mustard seeds hot water
+Puttu,"['brown rice flour', 'sugar', 'grated coconut']",,495,,South,Veg,brown rice flour sugar grated coconut
+Sambar,"['pigeon peas', 'eggplant', 'drumsticks', 'sambar powder', 'tamarind']",,20,,South,Veg,pigeon peas eggplant drumsticks sambar powder tamarind
+Sandige,"['thin rice flakes', 'black sesame seeds', 'curry leaves']",,120,,South,Veg,thin rice flakes black sesame seeds curry leaves
+Sevai,"['sevai', 'parboiled rice', 'steamer']",,120,,South,Veg,sevai parboiled rice steamer
+Thayir sadam,"['urad dal', 'curd', 'sesame oil', 'ginger', 'curry leaves', 'mustard seeds']",,10,,South,Veg,urad dal curd sesame oil ginger curry leaves mustard seeds
+Theeyal,"['coconut', 'whole red beans', 'masala', 'sesame oil', 'tamarind']",,15,,South,Veg,coconut whole red beans masala sesame oil tamarind
+Uttapam,"['chana dal', 'urad dal', 'thick poha', 'tomato', 'butter']",,10,,South,Veg,chana dal urad dal thick poha tomato butter
+Vada,"['urad dal', 'ginger', 'curry leaves', 'green chilies', 'black pepper']",,15,,South,Veg,urad dal ginger curry leaves green chilies black pepper
+Chicken Varuval,"['meat curry powder', 'chicken chunks', 'ginger', 'tomato', 'cinnamon']",,10,,South,Non-Veg,meat curry powder chicken chunks ginger tomato cinnamon
+Upma,"['chana dal', 'urad dal', 'ginger', 'curry leaves', 'sugar']",,10,,-1,Veg,chana dal urad dal ginger curry leaves sugar
+Amti,"['kala masala', 'arhar dal', 'curry leaves', 'mustard seeds', 'hot water']",,10,,West,Veg,kala masala arhar dal curry leaves mustard seeds hot water
+Zunka,"['gram flour', 'mustard', 'garlic', 'turmeric', 'red chilli']",,10,,West,Veg,gram flour mustard garlic turmeric red chilli
+Kolim Jawla,"['baingan', 'fish', 'coconut oil', 'fresh coconut', 'ginger']",,-1,,West,Non-Veg,baingan fish coconut oil fresh coconut ginger
+Saath,"['urad dal', 'potatoes', 'wheat flour', 'sooji']",,20,,West,Veg,urad dal potatoes wheat flour sooji
+Bajri no rotlo,"['wheat flour', 'pearl millet flour', 'hot water']",,10,,West,Veg,wheat flour pearl millet flour hot water
+Coconut vadi,"['condensed milk', 'mawa', 'desiccated coconut', 'almonds', 'cashews']",,20,,West,Veg,condensed milk mawa desiccated coconut almonds cashews
+Bhakri,"['jowar flour', 'sesame seeds']",,20,,West,Veg,jowar flour sesame seeds
+Bombil fry,"['bombay duck', 'malvani masala', 'rice flour', 'bombay rava', 'green chilies']",,-1,,West,Non-Veg,bombay duck malvani masala rice flour bombay rava green chilies
+Chakali,"['rice flour', 'sesame', 'plain flour', 'turmeric', 'red chilli']",,10,,West,Veg,rice flour sesame plain flour turmeric red chilli
+Chevdo,"['citric acid', 'fry', 'raisins', 'sugar', 'chana daal']",,20,,West,Veg,citric acid fry raisins sugar chana daal
+Chorafali,"['urad dal', 'bengal gram flour', 'dried mango', 'baking soda', 'black salt']",,5,,West,Veg,urad dal bengal gram flour dried mango baking soda black salt
+Copra paak,"['condensed milk', 'nestle cream', 'coconut ice', 'red food coloring', 'desiccated coconut']",,20,,West,Veg,condensed milk nestle cream coconut ice red food coloring desiccated coconut
+Daal Dhokli,"['whole wheat flour', 'dal', 'kokum', 'gur', 'bengal gram flour']",,20,,West,Veg,whole wheat flour dal kokum gur bengal gram flour
+Kutchi dabeli,"['pav', 'aloo', 'peanut', 'pomegranate', 'star anise']",,30,,West,Veg,pav aloo peanut pomegranate star anise
+Dahi vada,"['urad dal', 'bhuna chana', 'garam masala', 'dates', 'tamarind']",,30,,West,Veg,urad dal bhuna chana garam masala dates tamarind
+Dalithoy,"['arhar dal', 'coconut oil', 'curry leaves', 'mustard seeds', 'red chilli']",,5,,West,Veg,arhar dal coconut oil curry leaves mustard seeds red chilli
+Dhokla,"['rava', 'coconut', 'gram flour', 'mustard', 'sesame']",,10,,West,Veg,rava coconut gram flour mustard sesame
+Dudhi halwa,"['bottle gourd', 'green', 'raisins', 'sugar', 'clarified butter']",,15,,West,Veg,bottle gourd green raisins sugar clarified butter
+Gatta curry,"['yogurt', 'besan', 'sauce', 'garam masala powder', 'gram flour']",,10,,West,Veg,yogurt besan sauce garam masala powder gram flour
+Gud papdi,"['wheat flour', 'jaggery', 'clarified butter', 'sliced almonds']",,10,,West,Veg,wheat flour jaggery clarified butter sliced almonds
+Ghooghra,"['dry fruits', 'semolina', 'all purpose flour']",,-1,,West,Veg,dry fruits semolina all purpose flour
+Handwo,"['bottle gourd', 'chana dal', 'cabbage', 'urad dal', 'toor dal']",,20,,West,Veg,bottle gourd chana dal cabbage urad dal toor dal
+Halvasan,"['whole wheat rava', 'chia seed', 'lemon', 'edible gum', 'litre milk']",,-1,,West,Veg,whole wheat rava chia seed lemon edible gum litre milk
+Jeera Aloo,"['green chilies', 'lemon juice', 'chili powder', 'boiled potatoes']",,10,,West,Veg,green chilies lemon juice chili powder boiled potatoes
+Kansar,"['wheat flour', 'cashews', 'rapeseed oil']",,10,,West,Veg,wheat flour cashews rapeseed oil
+Keri no ras,"['mango', 'sugar']",,10,,West,Veg,mango sugar
+Khakhra,"['whole wheat flour', 'low fat', 'bengal gram flour']",,20,,West,Veg,whole wheat flour low fat bengal gram flour
+Khandvi,"['green chili paste', 'white sesame seeds', 'gram flour', 'curry leaves', 'green chili']",,20,,West,Veg,green chili paste white sesame seeds gram flour curry leaves green chili
+Kombdi vade,"['rice flour', 'urad dal', 'wheat flour', 'gram flour', 'turmeric']",,10,,West,Veg,rice flour urad dal wheat flour gram flour turmeric
+Laapsi,"['cinnamon', 'jaggery', 'clarified butter', 'dry roasted']",,10,,Central,Veg,cinnamon jaggery clarified butter dry roasted
+Koshimbir,"['cucumber', 'carrot', 'tomatoes', 'cilantro']",,10,,West,Veg,cucumber carrot tomatoes cilantro
+Methi na Gota,"['rava', 'gram flour', 'lemon juice', 'turmeric', 'fenugreek leaves']",,15,,West,Veg,rava gram flour lemon juice turmeric fenugreek leaves
+Mohanthal,"['rose water', 'pistachio', 'badam', 'bengal gram flour', 'saffron']",,5,,West,Veg,rose water pistachio badam bengal gram flour saffron
+Muthiya,"['bottle gourd', 'whole wheat flour', 'rava', 'sesame seeds', 'bengal gram flour']",,15,,West,Veg,bottle gourd whole wheat flour rava sesame seeds bengal gram flour
+Patra,"['arbi ke patte', 'sesame seeds', 'gur', 'bengal gram flour', 'imli']",,10,,West,Veg,arbi ke patte sesame seeds gur bengal gram flour imli
+Pav Bhaji,"['pav bhaji masala', 'gobi', 'potatoes', 'green peas', 'dinner rolls']",,20,,West,Veg,pav bhaji masala gobi potatoes green peas dinner rolls
+Puri Bhaji,"['aloo', 'urad dal', 'mustard', 'ginger', 'curry leaves']",,10,,West,Veg,aloo urad dal mustard ginger curry leaves
+Sabudana Khichadi,"['raw peanuts', 'sabudana', 'lemon', 'avocado oil', 'curry leaves', 'green chili']",,70,,West,Veg,raw peanuts sabudana lemon avocado oil curry leaves green chili
+Sev khamani,"['khaman', 'pomegranate', 'sev', 'powdered sugar', 'garlic']",,20,,West,Veg,khaman pomegranate sev powdered sugar garlic
+Sev tameta,"['sev', 'ginger', 'tomato', 'sugar']",,20,,West,Veg,sev ginger tomato sugar
+Namakpara,"['wheat flour', 'baking soda', 'all purpose flour', 'black pepper', 'sunflower oil']",,10,,West,Veg,wheat flour baking soda all purpose flour black pepper sunflower oil
+Sukhdi,"['whole wheat flour', 'gur', 'clarified butter']",,10,,West,Veg,whole wheat flour gur clarified butter
+Surnoli,"['rice flakes', 'yogurt', 'raw rice', 'jaggery', 'grated coconut']",,60,,West,Veg,rice flakes yogurt raw rice jaggery grated coconut
+Thalipeeth,"['whole wheat flour', 'rice flour', 'pearl millet flour', 'sorghum flour', 'sesame seeds']",,25,,West,Veg,whole wheat flour rice flour pearl millet flour sorghum flour sesame seeds
+Undhiyu,"['sweet potato', 'surti papdi', 'baby potatoes', 'valor papdi', 'green peas']",,25,,West,Veg,sweet potato surti papdi baby potatoes valor papdi green peas
+Veg Kolhapuri,"['gobi', 'potato', 'beans', 'khus khus', 'coconut']",,20,,West,Veg,gobi potato beans khus khus coconut
+Vindaloo,"['chicken', 'coconut oil', 'wine vinegar', 'ginger', 'green', 'cinnamon']",,10,,West,Non-Veg,chicken coconut oil wine vinegar ginger green cinnamon
+Lilva Kachori,"['green garlic chutney', 'fresh green peas', 'ginger', 'lemon juice', 'plain flour']",,30,,West,Veg,green garlic chutney fresh green peas ginger lemon juice plain flour
+Mag Dhokli,"['moong beans', 'jaggery', 'red chillies', 'oil', 'salt']",,-1,,West,Veg,moong beans jaggery red chillies oil salt
+Khichu,"['rice flour', 'sesame seeds', 'baking soda', 'peanut oil']",,5,,West,Veg,rice flour sesame seeds baking soda peanut oil
+Thepla,"['chickpea flour', 'methi leaves', 'jowar flour', 'wheat flour']",,15,,West,Veg,chickpea flour methi leaves jowar flour wheat flour
+Farsi Puri,"['semolina', 'clarified butter', 'oil', 'white flour', 'black pepper']",,-1,,West,Veg,semolina clarified butter oil white flour black pepper
+Khaman,"['yogurt', 'fresh coconut', 'sesame seeds', 'semolina', 'gram flour']",,10,,West,Veg,yogurt fresh coconut sesame seeds semolina gram flour
+Turiya Patra Vatana sabji,"['ridge gourd', 'baking soda', 'sugar', 'grated coconut', 'peas']",,35,,West,Veg,ridge gourd baking soda sugar grated coconut peas
+Churma Ladoo,"['whole wheat flour', 'khus khus', 'sesame seeds', 'dry coconut', 'gur']",,12,,West,Veg,whole wheat flour khus khus sesame seeds dry coconut gur
+Cheera Doi,"['rice', 'mango', 'curd']",,-1,,East,Veg,rice mango curd
+Gheela Pitha,"['sticky rice', 'rice flour', 'jaggery', 'orange rind']",,10,,North East,Veg,sticky rice rice flour jaggery orange rind
+Khar,"['raw papaya', 'panch phoran masala', 'nigella seeds', 'mustard oil', 'fennel seeds']",,10,,North East,Veg,raw papaya panch phoran masala nigella seeds mustard oil fennel seeds
+Kumol Sawul,"['rice', 'eggs', 'carrot', 'beetroot']",,-1,,North East,Non-Veg,rice eggs carrot beetroot
+Luchi,"['maida', 'vegetable oil']",,20,,East,Veg,maida vegetable oil
+Alu Pitika,"['potatoes', 'mustard oil', 'fish', 'green chillies']",,5,,North East,Non-Veg,potatoes mustard oil fish green chillies
+Masor tenga,"['ridge gourd', 'fish', 'lemon', 'tomatoes', 'mustard oil']",,15,,North East,Non-Veg,ridge gourd fish lemon tomatoes mustard oil
+Bengena Pitika,"['brinjal', 'onions', 'salt', 'sesame seeds', 'coriander']",,-1,,North East,Veg,brinjal onions salt sesame seeds coriander
+Bilahi Maas,"['potatoes', 'garam masala', 'tomatoes', 'mustard oil', 'bay leaf']",,10,,North East,Non-Veg,potatoes garam masala tomatoes mustard oil bay leaf
+Black rice,"['forbidden black rice', 'chicken', 'olive oil', 'slivered almonds', 'garlic powder']",,-1,,North East,Non-Veg,forbidden black rice chicken olive oil slivered almonds garlic powder
+Bora Sawul,"['biryani masala', 'mixed vegetables', 'yellow moong daal', 'whole red', 'mustard seeds']",,-1,,North East,Veg,biryani masala mixed vegetables yellow moong daal whole red mustard seeds
+Brown Rice,"['brown rice', 'soy sauce', 'olive oil']",,15,,-1,Veg,brown rice soy sauce olive oil
+Chingri malai curry,"['coconut milk', 'lobster', 'fresh green chilli', 'ginger', 'red onion']",,10,,East,Non-Veg,coconut milk lobster fresh green chilli ginger red onion
+Goja,"['baking soda', 'clarified butter', 'oil', 'all purpose flour']",,20,,East,Veg,baking soda clarified butter oil all purpose flour
+Hando Guri,"['jaggery', 'raisins']",,-1,,North East,Veg,jaggery raisins
+Haq Maas,"['lamb', 'garam masala powder', 'curd', 'turmeric', 'bay leaf']",,20,,North East,Non-Veg,lamb garam masala powder curd turmeric bay leaf
+Chingri Bhape,"['coconut', 'prawns', 'curd', 'mustard seed', 'green chili']",,15,,East,Non-Veg,coconut prawns curd mustard seed green chili
+Kabiraji,"['fish fillet', 'besan', 'lemon', 'mint', 'ginger']",,-1,,East,Non-Veg,fish fillet besan lemon mint ginger
+Khorisa,"['fermented bamboo shoot', 'potato', 'ginger', 'green', 'mustard oil']",,-1,,North East,Veg,fermented bamboo shoot potato ginger green mustard oil
+Koldil Chicken,"['banana flower', 'chicken', 'green chili', 'mustard oil', 'lemon juice']",,-1,,North East,Non-Veg,banana flower chicken green chili mustard oil lemon juice
+Konir Dom,"['aloo', 'tomatoes', 'mustard oil', 'bay leaf', 'cinnamon stick']",,-1,,North East,Non-Veg,aloo tomatoes mustard oil bay leaf cinnamon stick
+Koldil Duck,"['rice flour', 'mutton', 'banana', 'gram flour', 'olive oil', 'baking powder']",,-1,,North East,Non-Veg,rice flour mutton banana gram flour olive oil baking powder
+Masor Koni,"['fish roe', 'pumpkin flowers', 'mustard oil', 'turmeric', 'tomato']",,-1,,North East,Non-Veg,fish roe pumpkin flowers mustard oil turmeric tomato
+Mishti Chholar Dal,"['chana dal', 'fresh coconut', 'ginger', 'cinnamon', 'raisins']",,10,,East,Veg,chana dal fresh coconut ginger cinnamon raisins
+Pakhala,"['curd', 'cooked rice', 'curry leaves', 'dry chilli']",,-1,,East,Veg,curd cooked rice curry leaves dry chilli
+Pani Pitha,"['tea leaves', 'white sesame seeds', 'dry coconut', 'soaked rice']",,10,,North East,Veg,tea leaves white sesame seeds dry coconut soaked rice
+Payokh,"['basmati rice', 'rose water', 'sugar', 'clarified butter', 'cardamom pods']",,-1,,North East,Veg,basmati rice rose water sugar clarified butter cardamom pods
+Prawn malai curry,"['coconut milk', 'prawns', 'garlic', 'turmeric', 'sugar']",,15,,East,Non-Veg,coconut milk prawns garlic turmeric sugar
+Red Rice,"['red pepper', 'red onion', 'butter', 'watercress', 'olive oil']",,-1,,-1,Veg,red pepper red onion butter watercress olive oil
+Shukto,"['green beans', 'bitter gourd', 'ridge gourd', 'banana', 'brinjal']",,10,,East,Veg,green beans bitter gourd ridge gourd banana brinjal
+Til Pitha,"['glutinous rice', 'black sesame seeds', 'gur']",,5,,North East,Veg,glutinous rice black sesame seeds gur
+Bebinca,"['coconut milk', 'egg yolks', 'clarified butter', 'all purpose flour']",,20,,West,Veg,coconut milk egg yolks clarified butter all purpose flour
+Shufta,"['cottage cheese', 'dry dates', 'dried rose petals', 'pistachio', 'badam']",,-1,,North,Veg,cottage cheese dry dates dried rose petals pistachio badam
+Mawa Bati,"['milk powder', 'dry fruits', 'arrowroot powder', 'all purpose flour']",,20,,Central,Veg,milk powder dry fruits arrowroot powder all purpose flour
+Pinaca,"['brown rice', 'fennel seeds', 'grated coconut', 'black pepper', 'ginger powder']",,-1,,West,Veg,brown rice fennel seeds grated coconut black pepper ginger powder

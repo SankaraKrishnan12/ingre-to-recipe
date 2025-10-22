@@ -1,0 +1,7 @@
+name,ingredients,instructions,region,diet
+Chicken Biryani,"['chicken', 'rice', 'onion', 'tomato', 'spices']","Cook rice and chicken with spices. Mix and serve.","North","Non-Veg"
+Paneer Butter Masala,"['paneer', 'tomato', 'cream', 'butter', 'spices']","Cook paneer in tomato gravy with cream.","North","Veg"
+Dosa,"['rice', 'urad dal', 'potato', 'onion']","Ferment batter, make crepes, fill with potato.","South","Veg"
+Fish Curry,"['fish', 'coconut', 'spices', 'curry leaves']","Cook fish in coconut curry.","South","Non-Veg"
+Rajma,"['kidney beans', 'tomato', 'onion', 'spices']","Cook beans with spices and serve.","North","Veg"
+Pani Puri,"['puri', 'potato', 'chickpeas', 'spices', 'water']","Fill puri with mixture and spicy water.","West","Veg"

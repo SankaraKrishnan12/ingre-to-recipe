@@ -71,8 +71,7 @@ def recommend_word2vec(user_ingredients, model, recipes_df, top_n=5):
 if __name__ == '__main__':
     if os.path.exists('../data/sample_recipes.csv'):
         recipes_df = pd.read_csv('../data/sample_recipes.csv')
-        recipes_df['ingredients'] = recipes_df['ingredients'].apply(eval)  # Convert string back to list
-
+        recipes_df['ingredients'] = recipes_df['ingredients'].str.split(',')
         print("Training TF-IDF model...")
         tfidf_vectorizer, tfidf_matrix = train_tfidf_model(recipes_df)
 

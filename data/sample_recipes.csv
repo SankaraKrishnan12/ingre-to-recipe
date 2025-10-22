@@ -1,7 +1,256 @@
-name,ingredients,instructions,region,diet
-Chicken Biryani,"['chicken', 'rice', 'onion', 'tomato', 'spices']","Cook rice and chicken with spices. Mix and serve.","North","Non-Veg"
-Paneer Butter Masala,"['paneer', 'tomato', 'cream', 'butter', 'spices']","Cook paneer in tomato gravy with cream.","North","Veg"
-Dosa,"['rice', 'urad dal', 'potato', 'onion']","Ferment batter, make crepes, fill with potato.","South","Veg"
-Fish Curry,"['fish', 'coconut', 'spices', 'curry leaves']","Cook fish in coconut curry.","South","Non-Veg"
-Rajma,"['kidney beans', 'tomato', 'onion', 'spices']","Cook beans with spices and serve.","North","Veg"
-Pani Puri,"['puri', 'potato', 'chickpeas', 'spices', 'water']","Fill puri with mixture and spicy water.","West","Veg"
+name,ingredients,,instructions,,region,diet
+Balu shahi,"Maida flour, yogurt, oil, sugar",,45,,East,vegetarian
+Boondi,"Gram flour, ghee, sugar",,80,,West,vegetarian
+Gajar ka halwa,"Carrots, milk, sugar, ghee, cashews, raisins",,15,,North,vegetarian
+Ghevar,"Flour, ghee, kewra, milk, clarified butter, sugar, almonds, pistachio, saffron, green cardamom",,15,,West,vegetarian
+Gulab jamun,"Milk powder, plain flour, baking powder, ghee, milk, sugar, water, rose water",,15,,East,vegetarian
+Imarti,"Sugar syrup, lentil flour",,10,,East,vegetarian
+Jalebi,"Maida, corn flour, baking soda, vinegar, curd, water, turmeric, saffron, cardamom",,10,,North,vegetarian
+Kaju katli,"Cashews, ghee, cardamom, sugar",,10,,-1,vegetarian
+Kalakand,"Milk, cottage cheese, sugar",,20,,East,vegetarian
+Kheer,"Milk, rice, sugar, dried fruits",,10,,-1,vegetarian
+Laddu,"Gram flour, ghee, sugar",,10,,-1,vegetarian
+Lassi,"Yogurt, milk, nuts, sugar",,5,,North,vegetarian
+Nankhatai,"Refined flour, besan, ghee, powdered sugar, yoghurt, green cardamom",,20,,-1,vegetarian
+Petha,"Firm white pumpkin, sugar, kitchen lime, alum powder",,10,,North,vegetarian
+Phirni,"Rice, sugar, nuts",,30,,East,vegetarian
+Rabri,"Condensed milk, sugar, spices, nuts",,10,,North,vegetarian
+Sheera,"Semolina, ghee, nuts, milk",,10,,West,vegetarian
+Singori,"Khoa, coconut, molu leaf",,10,,North,vegetarian
+Sohan halwa,"Corn flour, ghee, dry fruits",,10,,North,vegetarian
+Sohan papdi,"Gram flour, ghee, sugar, milk, cardamom",,-1,,West,vegetarian
+Chhena jalebi,"Chhena, sugar, ghee",,10,,East,vegetarian
+Chhena kheeri,"Chhena, sugar, milk",,-1,,East,vegetarian
+Chhena poda,"Sugar, chenna cheese",,10,,East,vegetarian
+Cham cham,"Flour, cream, sugar, saffron, lemon juice, coconut flakes",,40,,East,vegetarian
+Kheer sagar,"Chenna, condensed milk, sugar, saffron, cardamom",,25,,East,vegetarian
+Ledikeni,"Chhena, sugar, ghee",,45,,East,vegetarian
+Lyangcha,"Flour, fried milk power, sugar syrup",,20,,North East,vegetarian
+Malapua,"Yoghurt, refined flour, ghee, fennel seeds",,10,,North,vegetarian
+Mihidana,"Besan flour, sugar, ghee",,15,,East,vegetarian
+Misti doi,"Milk, jaggery",,480,,East,vegetarian
+Pantua,"Chhena, sugar, ghee, flour",,45,,East,vegetarian
+Pithe,"Rice flour, wheat flour",,15,,North East,vegetarian
+Rasabali,"Chenna, sweetened milk",,15,,East,vegetarian
+Ras malai,"Chhena, reduced milk, pistachio",,180,,East,vegetarian
+Rasgulla,"Chhena, sugar, cardamom",,10,,East,vegetarian
+Sandesh,"Milk, sugar, saffron, cardamom",,30,,East,vegetarian
+Adhirasam,"Rice flour, jaggery, ghee, vegetable oil, elachi",,10,,East,vegetarian
+Ariselu,"Rice flour, jaggery, ghee",,15,,South,vegetarian
+Bandar laddu,"Besan, jaggery, cardamom powder, ghee, cashews and raisins, jaggery syrup, sugar",,5,,South,vegetarian
+Chikki,"Peanuts, jaggery",,10,,West,vegetarian
+Dharwad pedha,"Milk, Sugar, Dharwadi buffalo milk",,20,,South,vegetarian
+Double ka meetha,"Loaf bread, milk",,20,,South,vegetarian
+Gavvalu,"Rice flour, sugar, salt, ghee, semolina",,10,,South,vegetarian
+Kakinada khaja,"Wheat flour, sugar",,10,,South,vegetarian
+Kuzhi paniyaram,"Black lentils, rice",,10,,South,vegetarian
+Mysore pak,"Besan flour, semolina, mung bean, jaggery, coconut, skimmed milk powder, sugar, ghee",,5,,South,vegetarian
+Obbattu holige,"Maida flour, turmeric, coconut, chickpeas, jaggery, ghee, cardamom",,180,,South,vegetarian
+Palathalikalu,"Rice flour, milk",,10,,South,vegetarian
+Poornalu,"Chana dal, jaggery",,240,,South,vegetarian
+Pongal,"Rice, jaggery, cashews, ghee",,5,,South,vegetarian
+Pootharekulu,"Rice flour, powdered sugar, ghee",,10,,South,vegetarian
+Qubani ka meetha,"Apricots, sugar syrup",,10,,South,vegetarian
+Sheer korma,"Vermicelli pudding, milk",,10,,South,vegetarian
+Unni Appam,"Rice flour, banana, jaggery, coconut",,10,,South,vegetarian
+Kajjikaya,"Rice flour, jaggery, coconut",,40,,South,vegetarian
+Anarsa,"Rice flour, jaggery, khus-khus seeds",,10,,West,vegetarian
+Basundi,"Sugar, milk, nuts",,10,,West,vegetarian
+Dhondas,"Cucumber, rava",,10,,West,vegetarian
+Doodhpak,"Milk, rice, sugar, dry fruits",,10,,West,vegetarian
+Mahim halwa,"Semolina, sugar",,10,,West,vegetarian
+Modak,"Rice flour, coconut, jaggery ",,10,,West,vegetarian
+Shankarpali,"Sugar, ghee, maida flour, semolina",,10,,West,vegetarian
+Shrikhand,"Curd, sugar, saffron, cardamom",,10,,West,vegetarian
+Sutar feni,"Maida, sugar, ghee",,15,,West,vegetarian
+Maach Jhol,"Fish, potol, tomato, chillies, ginger, garlic",,10,,North East,non vegetarian
+Pork Bharta,"Boiled pork, onions, chillies, ginger and garlic",,-1,,North East,non vegetarian
+Chak Hao Kheer,"Rice, milk, sugar, cardamom",,240,,North East,vegetarian
+Galho,"Rice, axone, salt, water, chillies, pork",,5,,North East,non vegetarian
+Aloo gobi,"Cauliflower, potato, garam masala, turmeric, curry leaves",,10,,North,vegetarian
+Aloo tikki,"Rice flour, potato, bread crumbs, garam masala, salt",,5,,North,vegetarian
+Aloo matar,"Potato, peas, chillies, ginger, garam masala, garlic",,5,,North,vegetarian
+Aloo methi,"Potato, fenugreek leaves, chillies, salt, oil",,10,,North,vegetarian
+Aloo shimla mirch,"Potato, shimla mirch, garam masala, amchur powder, salt",,10,,North,vegetarian
+Bhatura,"Chole, rava, yogurt, plain flour, baking soda",,20,,North,vegetarian
+Bhindi masala,"Ladies finger, garam masala, kasuri methi, tomatoes, chili powder",,20,,North,vegetarian
+Biryani,"Chicken thighs, basmati rice, star anise, sweet, green chillies",,30,,South,non vegetarian
+Butter chicken,"Chicken, greek yogurt, cream, garam masala powder, cashew nuts, butter",,10,,North,non vegetarian
+Chana masala,"Chickpeas, tomato paste, garam masala, ginger, red onion, avocado oil",,20,,North,vegetarian
+Chapati,"Whole wheat flour, olive oil, hot water, all purpose flour",,10,,West,vegetarian
+Chicken razala,"Chicken, dahi, sesame seeds, garam masala powder, cashew nuts, saffron",,10,,East,non vegetarian
+Chicken Tikka masala,"Naan bread, tomato sauce, skinless chicken breasts, heavy cream, garam masala",,10,,North,non vegetarian
+Chicken Tikka,"Chicken, whole wheat bread, rice flour, garam masala powder, whole egg",,120,,North,non vegetarian
+Chole bhature,"Chole, bhatura, garam masala, bay leaf, cinnamon stick",,20,,North,vegetarian
+Daal baati churma,"Moong dal, masoor dal, chana dal, wheat flour, almond",,10,,West,vegetarian
+Daal puri,"Moong dal, garam masala powder, garlic, green chilli, all purpose flour",,30,,East,vegetarian
+Dal makhani ,"Red kidney beans, urad dal, cream, garam masala, chili powder",,10,,North,vegetarian
+Dal tadka,"Pigeon peas, garam masala, ginger, red onion, kasuri methi",,10,,North,vegetarian
+Dum aloo,"Baby potatoes, garam masala, cashew nuts, kasuri methi, tomatoes",,20,,North,vegetarian
+Poha,"Beaten rice flakes, potato, curry leaves, green chilies, lemon juice",,20,,West,vegetarian
+Fara,"Chana dal, whole wheat flour, arhar dal, white urad dal, garam masala powder",,10,,Central,vegetarian
+Kachori,"Moong dal, rava, garam masala, dough, fennel seeds",,30,,North,vegetarian
+Kadai paneer,"Cottage cheese, bell peppers, gravy, garam masala, cashew nuts",,20,,North,vegetarian
+Kadhi pakoda,"Besan, garam masala powder, gram flour, ginger, curry leaves",,10,,North,vegetarian
+Karela bharta,"Bitter gourd, fennel, garam masala powder, chili powder, amchur powder",,20,,North,vegetarian
+Khichdi,"Moong dal, green peas, ginger, tomato, green chili",,40,,-1,vegetarian
+Kofta,"Paneer, potato, cream, corn flour, garam masala",,20,,North,vegetarian
+Kulfi falooda,"Rose syrup, falooda sev, mixed nuts, saffron, sugar",,45,,-1,vegetarian
+Lauki ke kofte,"Bottle gourd, garam masala powder, gram flour, ginger, chillies",,20,,North,vegetarian
+Lauki ki subji,"Bottle gourd, coconut oil, garam masala, ginger, green chillies",,10,,-1,vegetarian
+Litti chokha,"Wheat flour, roasted gram flour, tomato, nigella seeds, chilli",,45,,North,vegetarian
+Makki di roti sarson da saag,"Palak, makki atta, mustard green, garam masala, ginger",,25,,North,vegetarian
+Misi roti,"Whole wheat flour, chickpea flour, green chilies",,30,,North,vegetarian
+Mushroom do pyaza,"Mushroom, malai, garam masala, ginger, capsicum",,10,,North,vegetarian
+Mushroom matar,"Canned coconut milk, frozen green peas, wild mushrooms, garam masala, tomatoes",,10,,North,vegetarian
+Naan,"Whole wheat flour, honey, butter, garlic",,60,,North,vegetarian
+Navrattan korma,"Green beans, potatoes, khus khus, low fat, garam masala powder",,25,,North,vegetarian
+Palak paneer,"Cottage cheese, palak, cream, garam masala, butter",,20,,North,vegetarian
+Paneer butter masala,"Paneer, whipping cream, garam masala, cashew nuts, butter",,20,,North,vegetarian
+Paneer tikka masala,"Paneer, greek yogurt, tandoori masala, cream, bell pepper",,20,,North,vegetarian
+Pani puri,"Kala chana, mashed potato, boondi, sev, lemon",,15,,-1,vegetarian
+Panjeeri,"Whole wheat flour, musk melon seeds, poppy seeds, edible gum, semolina",,10,,,vegetarian
+Papad,"Urad dal, sev, lemon juice, chopped tomatoes",,5,,-1,vegetarian
+Paratha,"Wheat flour, butter, potato, coriander",,15,,North,vegetarian
+Pattor,"Arbi ke patte, sesame seeds, gur, bengal gram flour, imli",,10,,West,vegetarian
+Pindi chana,"Fennel, tea bags, tomato, kasuri methi, cinnamon",,500,,North,vegetarian
+Rajma chaval,"Red kidney beans, garam masala powder, ginger, tomato, mustard oil",,15,,North,vegetarian
+Rongi,"Garam masala powder, tomato, kasuri methi, cinnamon, mustard oil",,10,,North,vegetarian
+Samosa,"Potatoes, green peas, garam masala, ginger, dough",,30,,-1,vegetarian
+Sattu ki roti,"Sattu, atta, dough, filling, mustard oil",,10,,North,vegetarian
+Shahi paneer,"Cottage cheese, malai, garam masala, ginger, tomato",,20,,North,vegetarian
+Shahi tukra,"Rose water, milk, white bread slices, saffron, almonds",,10,,South,vegetarian
+Vegetable jalfrezi,"Baby corn, french beans, garam masala, ginger, carrot",,10,,North,vegetarian
+Tandoori Chicken,"Greek yogurt, garam masala, kasuri methi, marinade, mustard oil",,240,,North,non vegetarian
+Tandoori Fish Tikka,"Chickpea flour, biryani masala powder, yogurt, fish fillets, green bell pepper",,240,,North,non vegetarian
+Attu,"Whole wheat flour, arhar dal, ginger, kala jeera, green chilli",,150,,South,vegetarian
+Avial,"Raw banana, elephant foot yam, long beans, tindora, urad dal",,30,,South,vegetarian
+Bisi bele bath,"Split pigeon peas, chana dal, urad dal, green peas, french beans",,30,,South,vegetarian
+Currivepillai sadam ,"Chana dal, urad dal, fresh coconut, sesame seeds, curry leaves",,10,,South,vegetarian
+Dosa,"Chana dal, urad dal, whole urad dal, blend rice, rock salt",,360,,South,vegetarian
+Idiappam,"Rice flour, hot water, grated coconut",,120,,South,vegetarian
+Idli,"Split urad dal, urad dal, idli rice, thick poha, rock salt",,360,,South,vegetarian
+Kanji,"Carrot, yellow mustard, red chilli, black salt",,10,,South,vegetarian
+Kaara kozhambu,"Sesame oil, drumstick, tamarind paste, sambar powder, tomato",,-1,,South,vegetarian
+Keerai kootu,"Moong dal, chana dal, spinach, urad dal, coconut oil",,20,,South,vegetarian
+Keerai masiyal,"Urad dal, curry leaves, sugar, mustard seeds, spinach",,-1,,South,vegetarian
+Keerai sadam,"Greens, tomato, mustard seeds, fenugreek seeds",,10,,South,vegetarian
+Keerai poriyal,"Amaranth leaves, split urad dal, mustard seeds, grated coconut, red chili",,20,,South,vegetarian
+Beef Fry,"Beef, coconut, garam masala, curry leaves, green chilies, chili powder",,10,,South,non vegetarian
+Kootu,"Chana dal, urad dal, potato, beans, peas",,10,,South,vegetarian
+Kos kootu,"Moong dal, chana dal, cabbage, tamarind, curry leaves",,10,,South,vegetarian
+Koshambri,"Moong dal, cucumber, curry leaves, green chili, lemon juice",,10,,South,vegetarian
+Kothamali sadam,"Chana dal, urad dal, gooseberry, raw rice, curry leaves",,10,,South,vegetarian
+Kuzhakkattai,"Sesame oil, raw rice, jaggery, grated coconut",,10,,South,vegetarian
+Kuzhambu,"Pearl onions, urad dal, drumsticks, tomato, curry leaves",,5,,South,vegetarian
+Masala Dosa,"Chana dal, urad dal, potatoes, idli rice, thick poha",,360,,South,vegetarian
+Pachadi,"Coconut oil, cucumber, curd, curry leaves, mustard seeds",,10,,South,vegetarian
+Paniyaram,"Yogurt, ginger, curry leaves, baking soda, green chilli",,10,,South,vegetarian
+Papadum,"Lentils, black pepper, vegetable oil",,5,,South,vegetarian
+Paravannam,"Raw rice,  jaggery, milk",,-1,,South,vegetarian
+Payasam,"Rice, cashew nuts, milk, raisins, sugar",,15,,South,vegetarian
+Paruppu sadam,"Arhar dal, sambar powder, tomato, curry leaves, fennel seeds",,10,,South,vegetarian
+Pesarattu,"Green moong beans, rice flour",,120,,South,vegetarian
+Poriyal,"Chana dal, urad dal, beans, coconut, mustard",,-1,,South,vegetarian
+Puli sadam,"Urad dal, lemon, tamarind, cooked rice, curry leaves",,10,,South,vegetarian
+Rasam,"Tomato, curry leaves, garlic, mustard seeds, hot water",,10,,South,vegetarian
+Puttu,"Brown rice flour, sugar, grated coconut",,495,,South,vegetarian
+Sambar,"Pigeon peas, eggplant, drumsticks, sambar powder, tamarind",,20,,South,vegetarian
+Sandige,"Thin rice flakes, black sesame seeds, curry leaves",,120,,South,vegetarian
+Sevai,"Sevai, parboiled rice, steamer",,120,,South,vegetarian
+Thayir sadam,"Urad dal, curd, sesame oil, ginger, curry leaves, mustard seeds",,10,,South,vegetarian
+Theeyal,"Coconut, whole red beans, masala, sesame oil, tamarind",,15,,South,vegetarian
+Uttapam,"Chana dal, urad dal, thick poha, tomato, butter",,10,,South,vegetarian
+Vada,"Urad dal, ginger, curry leaves, green chilies, black pepper",,15,,South,vegetarian
+Chicken Varuval,"Meat curry powder, chicken chunks, ginger, tomato, cinnamon",,10,,South,non vegetarian
+Upma,"Chana dal, urad dal, ginger, curry leaves, sugar",,10,,-1,vegetarian
+Amti,"Kala masala, arhar dal, curry leaves, mustard seeds, hot water",,10,,West,vegetarian
+Zunka,"Gram flour, mustard, garlic, turmeric, red chilli",,10,,West,vegetarian
+Kolim Jawla,"Baingan, fish, coconut oil, fresh coconut, ginger",,-1,,West,non vegetarian
+Saath,"Urad dal, potatoes, wheat flour, sooji",,20,,West,vegetarian
+Bajri no rotlo,"Wheat flour, pearl millet flour, hot water",,10,,West,vegetarian
+Coconut vadi,"Condensed milk, mawa, desiccated coconut, almonds, cashews",,20,,West,vegetarian
+Bhakri,"Jowar flour, sesame seeds",,20,,West,vegetarian
+Bombil fry,"Bombay duck, malvani masala, rice flour, bombay rava, green chilies",,-1,,West,non vegetarian
+Chakali,"Rice flour, sesame, plain flour, turmeric, red chilli",,10,,West,vegetarian
+Chevdo,"Citric acid, fry, raisins, sugar, chana daal",,20,,West,vegetarian
+Chorafali,"Urad dal, bengal gram flour, dried mango, baking soda, black salt",,5,,West,vegetarian
+Copra paak,"Condensed milk, nestle cream, coconut ice, red food coloring, desiccated coconut",,20,,West,vegetarian
+Daal Dhokli,"Whole wheat flour, dal, kokum, gur, bengal gram flour",,20,,West,vegetarian
+Kutchi dabeli,"Pav, aloo, peanut, pomegranate, star anise",,30,,West,vegetarian
+Dahi vada,"Urad dal, bhuna chana, garam masala, dates, tamarind",,30,,West,vegetarian
+Dalithoy,"Arhar dal, coconut oil, curry leaves, mustard seeds, red chilli",,5,,West,vegetarian
+Dhokla,"Rava, coconut, gram flour, mustard, sesame",,10,,West,vegetarian
+Dudhi halwa,"Bottle gourd, green, raisins, sugar, clarified butter",,15,,West,vegetarian
+Gatta curry,"Yogurt, besan, sauce, garam masala powder, gram flour",,10,,West,vegetarian
+Gud papdi,"Wheat flour, jaggery, clarified butter, sliced almonds",,10,,West,vegetarian
+Ghooghra,"Dry fruits, semolina, all purpose flour",,-1,,West,vegetarian
+Handwo,"Bottle gourd, chana dal, cabbage, urad dal, toor dal",,20,,West,vegetarian
+Halvasan,"Whole wheat rava, chia seed, lemon, edible gum, litre milk",,-1,,West,vegetarian
+Jeera Aloo,"Green chilies, lemon juice, chili powder, boiled potatoes",,10,,West,vegetarian
+Kansar,"Wheat flour, cashews, rapeseed oil",,10,,West,vegetarian
+Keri no ras,"Mango, sugar",,10,,West,vegetarian
+Khakhra,"Whole wheat flour, low fat, bengal gram flour",,20,,West,vegetarian
+Khandvi,"Green chili paste, white sesame seeds, gram flour, curry leaves, green chili",,20,,West,vegetarian
+Kombdi vade,"Rice flour, urad dal, wheat flour, gram flour, turmeric",,10,,West,vegetarian
+Laapsi,"Cinnamon, jaggery, clarified butter, dry roasted",,10,,Central,vegetarian
+Koshimbir,"Cucumber, carrot, tomatoes, cilantro",,10,,West,vegetarian
+Methi na Gota,"Rava, gram flour, lemon juice, turmeric, fenugreek leaves",,15,,West,vegetarian
+Mohanthal,"Rose water, pistachio, badam, bengal gram flour, saffron",,5,,West,vegetarian
+Muthiya,"Bottle gourd, whole wheat flour, rava, sesame seeds, bengal gram flour",,15,,West,vegetarian
+Patra,"Arbi ke patte, sesame seeds, gur, bengal gram flour, imli",,10,,West,vegetarian
+Pav Bhaji,"Pav bhaji masala, gobi, potatoes, green peas, dinner rolls",,20,,West,vegetarian
+Puri Bhaji,"Aloo, urad dal, mustard, ginger, curry leaves",,10,,West,vegetarian
+Sabudana Khichadi,"Raw peanuts, sabudana, lemon, avocado oil, curry leaves, green chili",,70,,West,vegetarian
+Sev khamani,"Khaman, pomegranate, sev, powdered sugar, garlic",,20,,West,vegetarian
+Sev tameta,"Sev, ginger, tomato, sugar",,20,,West,vegetarian
+Namakpara,"Wheat flour, baking soda, all purpose flour, black pepper, sunflower oil",,10,,West,vegetarian
+Sukhdi,"Whole wheat flour, gur, clarified butter",,10,,West,vegetarian
+Surnoli,"Rice flakes, yogurt, raw rice, jaggery, grated coconut",,60,,West,vegetarian
+Thalipeeth,"Whole wheat flour, rice flour, pearl millet flour, sorghum flour, sesame seeds",,25,,West,vegetarian
+Undhiyu,"Sweet potato, surti papdi, baby potatoes, valor papdi, green peas",,25,,West,vegetarian
+Veg Kolhapuri,"Gobi, potato, beans, khus khus, coconut",,20,,West,vegetarian
+Vindaloo,"Chicken, coconut oil, wine vinegar, ginger, green, cinnamon",,10,,West,non vegetarian
+Lilva Kachori,"Green garlic chutney, fresh green peas, ginger, lemon juice, plain flour",,30,,West,vegetarian
+Mag Dhokli,"Moong beans, jaggery, red chillies, oil, salt",,-1,,West,vegetarian
+Khichu,"Rice flour, sesame seeds, baking soda, peanut oil",,5,,West,vegetarian
+Thepla,"Chickpea flour, methi leaves, jowar flour, wheat flour",,15,,West,vegetarian
+Farsi Puri,"Semolina, clarified butter, oil, white flour, black pepper",,-1,,West,vegetarian
+Khaman,"Yogurt, fresh coconut, sesame seeds, semolina, gram flour",,10,,West,vegetarian
+Turiya Patra Vatana sabji,"Ridge gourd, baking soda, sugar, grated coconut, peas",,35,,West,vegetarian
+Churma Ladoo,"Whole wheat flour, khus khus, sesame seeds, dry coconut, gur",,12,,West,vegetarian
+Cheera Doi,"Rice, mango, curd",,-1,,East,vegetarian
+Gheela Pitha,"Sticky rice, rice flour, jaggery, orange rind",,10,,North East,vegetarian
+Khar,"Raw papaya, panch phoran masala, nigella seeds, mustard oil, fennel seeds",,10,,North East,vegetarian
+Kumol Sawul,"Rice, eggs, carrot, beetroot",,-1,,North East,non vegetarian
+Luchi,"Maida, vegetable oil",,20,,East,vegetarian
+Alu Pitika,"Potatoes, mustard oil, fish, green chillies",,5,,North East,non vegetarian
+Masor tenga,"Ridge gourd, fish, lemon, tomatoes, mustard oil",,15,,North East,non vegetarian
+Bengena Pitika,"Brinjal, onions, salt, sesame seeds, coriander",,-1,,North East,vegetarian
+Bilahi Maas,"Potatoes, garam masala, tomatoes, mustard oil, bay leaf",,10,,North East,non vegetarian
+Black rice,"Forbidden black rice, chicken, olive oil, slivered almonds, garlic powder",,-1,,North East,non vegetarian
+Bora Sawul,"Biryani masala, mixed vegetables, yellow moong daal, whole red, mustard seeds",,-1,,North East,vegetarian
+Brown Rice,"Brown rice, soy sauce, olive oil",,15,,-1,vegetarian
+Chingri malai curry,"Coconut milk, lobster, fresh green chilli, ginger, red onion",,10,,East,non vegetarian
+Goja,"Baking soda, clarified butter, oil, all purpose flour",,20,,East,vegetarian
+Hando Guri,"Jaggery, raisins",,-1,,North East,vegetarian
+Haq Maas,"Lamb, garam masala powder, curd, turmeric, bay leaf",,20,,North East,non vegetarian
+Chingri Bhape,"Coconut, prawns, curd, mustard seed, green chili",,15,,East,non vegetarian
+Kabiraji,"Fish fillet, besan, lemon, mint, ginger",,-1,,East,non vegetarian
+Khorisa,"Fermented bamboo shoot, potato, ginger, green, mustard oil",,-1,,North East,vegetarian
+Koldil Chicken,"Banana flower, chicken, green chili, mustard oil, lemon juice",,-1,,North East,non vegetarian
+Konir Dom,"Aloo, tomatoes, mustard oil, bay leaf, cinnamon stick",,-1,,North East,non vegetarian
+Koldil Duck,"Rice flour, mutton, banana, gram flour, olive oil, baking powder",,-1,,North East,non vegetarian
+Masor Koni,"Fish roe, pumpkin flowers, mustard oil, turmeric, tomato",,-1,,North East,non vegetarian
+Mishti Chholar Dal,"Chana dal, fresh coconut, ginger, cinnamon, raisins",,10,,East,vegetarian
+Pakhala,"Curd, cooked rice, curry leaves, dry chilli",,-1,,East,vegetarian
+Pani Pitha,"Tea leaves, white sesame seeds, dry coconut, soaked rice",,10,,North East,vegetarian
+Payokh,"Basmati rice, rose water, sugar, clarified butter, cardamom pods",,-1,,North East,vegetarian
+Prawn malai curry,"Coconut milk, prawns, garlic, turmeric, sugar",,15,,East,non vegetarian
+Red Rice,"Red pepper, red onion, butter, watercress, olive oil",,-1,,-1,vegetarian
+Shukto,"Green beans, bitter gourd, ridge gourd, banana, brinjal",,10,,East,vegetarian
+Til Pitha,"Glutinous rice, black sesame seeds, gur",,5,,North East,vegetarian
+Bebinca,"Coconut milk, egg yolks, clarified butter, all purpose flour",,20,,West,vegetarian
+Shufta,"Cottage cheese, dry dates, dried rose petals, pistachio, badam",,-1,,North,vegetarian
+Mawa Bati,"Milk powder, dry fruits, arrowroot powder, all purpose flour",,20,,Central,vegetarian
+Pinaca,"Brown rice, fennel seeds, grated coconut, black pepper, ginger powder",,-1,,West,vegetarian
