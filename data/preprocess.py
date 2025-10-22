@@ -15,7 +15,7 @@ def load_datasets():
     elif os.path.exists(sample_path):
         recipes_df = pd.read_csv(sample_path)
         ingredients_df = recipes_df[['name', 'ingredients']].copy()
-        ingredients_df['ingredients'] = ingredients_df['ingredients'].apply(eval)
+        ingredients_df['ingredients'] = ingredients_df['ingredients'].str.split(',')
     else:
         print("No dataset found. Using sample data.")
         return None, None

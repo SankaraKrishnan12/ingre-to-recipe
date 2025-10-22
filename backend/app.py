@@ -32,7 +32,7 @@ def load_models():
             tfidf_matrix = pickle.load(f)
         word2vec_model = Word2Vec.load('../ml_models/word2vec.model')
         recipes_df = pd.read_csv('../data/sample_recipes.csv')
-        recipes_df['ingredients'] = recipes_df['ingredients'].apply(eval)
+        recipes_df['ingredients'] = recipes_df['ingredients'].str.split(',')
         print("Models loaded successfully")
     except FileNotFoundError:
         print("Models not found. Please train models first.")

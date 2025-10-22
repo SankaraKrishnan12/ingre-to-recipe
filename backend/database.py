@@ -62,7 +62,7 @@ def get_recipes_from_db(conn, region=None, diet=None):
 if __name__ == '__main__':
     if os.path.exists('../data/sample_recipes.csv'):
         recipes_df = pd.read_csv('../data/sample_recipes.csv')
-        recipes_df['ingredients'] = recipes_df['ingredients'].apply(eval)
+        recipes_df['ingredients'] = recipes_df['ingredients'].str.split(',')
 
         conn = create_database()
         populate_database(conn, recipes_df)
